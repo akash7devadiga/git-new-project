@@ -1,2 +1,2 @@
-feature3
+new-feature3
 
